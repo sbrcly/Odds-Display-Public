@@ -13,6 +13,11 @@ Public repository for Odds Display
 #### This tool gives them a live view of where our betting odds are compared to some of the other big books in the market.
 #### Traders can choose between the MoneyLine, Spread and total. They can also filter the table using the filters in the navbar, or by clicking on the stars to add games to their favorites, then clicking the "Favorites" tab.
 
-### Here is a breif video of how it works:
+### Here is a brief video of how it works:
+
+
+https://user-images.githubusercontent.com/93163082/184570620-46ff6ebe-c6bc-4cdf-a2be-6a80276b2c04.mp4
+
+
 
 
