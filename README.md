@@ -15,6 +15,10 @@ Public repository for Odds Display
 
 ### Here is a brief video of how it works:
 
+#### Odds are updated automatically every 5 seconds.
+#### Green: The odds have moved in favor of the bettor.
+#### Red: The odds have moved against the bettor.
+
 
 https://user-images.githubusercontent.com/93163082/184570620-46ff6ebe-c6bc-4cdf-a2be-6a80276b2c04.mp4
 
